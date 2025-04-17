@@ -6,7 +6,7 @@
 
 1. Склонируй репозиторий:
 ```bash
-git clone https://github.com/yourusername/birthday-bot.git
+git clone https://github.com/xelvorn/birthday-bot.git
 cd birthday-bot
 ```
 2. Установи зависимости:
