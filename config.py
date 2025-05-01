@@ -1,6 +1,6 @@
 # сюда впиши свои данные
 
-BOT_TOKEN = "ТОКЕН:ТВОЕГОБОТА"
-CHANNEL_ID = -1001234567890  # ID твоего канала или чата
-BIRTHDAY_MONTH = 12  # месяц дня рождения
-BIRTHDAY_DAY = 31    # день месяца
+BOT_TOKEN = "7011629657:AAFZ7rX1dGqJa_UZWFSQ_8D_MORPtaZ31zU"
+CHANNEL_ID = -1002551914932  # ID твоего канала или чата
+BIRTHDAY_MONTH = 5  # месяц дня рождения
+BIRTHDAY_DAY = 8    # день месяца
